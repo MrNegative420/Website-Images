@@ -1,0 +1,113 @@
+TERRAIN TEXTURE SAMPLES
+
+
+    sa_volcanic_yellow.png
+https://i.imgur.com/CW5JybB_d.png?
+
+    sa_volcanic_red.png
+https://i.imgur.com/wXDgG1R_d.png?
+
+    sa_gravel.png
+https://i.imgur.com/wEGftGK_d.png?
+
+    sa_grass_green.png
+https://i.imgur.com/6X62Rp6_d.png?
+
+    sa_grass_brown.png
+https://i.imgur.com/o35poFQ_d.png?
+
+    sa_forest_spruce.png
+https://i.imgur.com/DTIFTOB_d.png?
+
+    sa_forest_birch.png
+https://i.imgur.com/pTduCgC_d.png?
+
+    sa_concrete.png
+https://i.imgur.com/aJOsZKj_d.png?
+
+    sa_beach.png
+https://i.imgur.com/lIVFj0I_d.png?
+
+    sa_snow.png
+https://i.imgur.com/dgePWTh_d.png?
+
+    sa_snow forest.png
+https://i.imgur.com/JQZbw5h_d.png?
+
+    en_tarmac_old.png
+https://i.imgur.com/D8eBEda_d.png?
+
+    en_stubble.png
+https://i.imgur.com/np0M88H_d.png?
+
+    en_stones.png
+https://i.imgur.com/L4eRCFU_d.png?
+
+    en_soil.png
+https://i.imgur.com/HBjQfFi_d.png?
+
+    en_grass2.png
+https://i.imgur.com/BBkWmfV_d.png?
+
+    en_grass1.png
+https://i.imgur.com/yg9dvRl_d.png?
+
+    en_forest_dec.png
+https://i.imgur.com/3WQNPJM_d.png?
+
+    en_forest_con.png
+https://i.imgur.com/WHh9aL3_d.png?
+
+    en_flowers3.png
+https://i.imgur.com/rISWOGC_d.png?
+
+    en_flowers2.png
+https://i.imgur.com/tFOgAZu_d.png?
+
+    en_flowers1.png
+https://i.imgur.com/NhfqpSS_d.png?
+
+    cp_rock_ca.png
+https://i.imgur.com/Edt3gGU_d.png?
+
+    cp_gravel.png
+https://i.imgur.com/IyZ6EeY_d.png?
+
+    cp_grass_tall.png
+https://i.imgur.com/rm7MqzF_d.png?
+
+    cp_grass.png
+https://i.imgur.com/TEYnxvJ_d.png?
+
+    cp_dirt.png
+https://i.imgur.com/dBFsHFc_d.png?
+
+    cp_conifer_moss2.png
+https://i.imgur.com/0ZJnhBs_d.png?
+
+    cp_conifer_moss1.png
+https://i.imgur.com/AW0vH61_d.png?
+
+    cp_conifer_common2.png
+https://i.imgur.com/WAXTRym_d.png?
+
+    cp_conifer_common1.png
+https://i.imgur.com/6l2X1fV_d.png?
+
+    cp_concrete2.png
+https://i.imgur.com/qHtO81N_d.png?
+
+    cp_concrete1.png
+https://i.imgur.com/44mVeMa_d.png?
+
+    cp_broadleaf_sparse2.png
+https://i.imgur.com/NEAVG3o_d.png?
+
+    cp_broadleaf_sparse1.png
+https://i.imgur.com/l8J5AIJ_d.png?
+
+    cp_broadleaf_dense2.png
+https://i.imgur.com/cVRtxxe_d.png?
+
+    cp_broadleaf_dense1.png
+https://i.imgur.com/XRrdGmF_d.png?
